@@ -9,7 +9,7 @@ def draw_triangle(some_turtle):
     some_turtle.end_fill()
     
     
-
+#so i am just adding this comment to test vs code git
 def draw_art():
     window = turtle.Screen()
     window.bgcolor('white')
